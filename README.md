@@ -12,3 +12,5 @@ Geographic data was obtained using the "BeautifulSoup" and "Geocoder" libraries.
 Libraries used: Pandas, Folium, Numpy, BeautifulSoup, Geocoder, Matplotlib, Scikit-learn.
 
 Machine learning algorithms used: K-means.  
+
+The project was written in a Jupyter notebook, which can be used to show the code and the output simultaneously.
